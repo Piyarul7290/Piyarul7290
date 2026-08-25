@@ -1,4 +1,3 @@
-
 <div align="center"><br><h2>👋 Hi, I'm Piyarul Sekh</h2><br><p align="center"><br><b>💻 B.Tech CSE Student | Aspiring DevOps Engineer</b><br></p><br>I'm a Computer Science & Engineering student passionate about **DevOps, Cloud Computing, Python, Linux, Docker, Git, and CI/CD**.<br><br>🚀 Currently learning and building projects to strengthen my skills in:<br><br>* 🐍 Python<br>* 🐳 Docker<br>* 🔧 Git & GitHub<br>* ☁️ Cloud & AWS<br>* ⚙️ Jenkins & CI/CD<br>* 🐧 Linux<br>* 💻 DevOps & Automation<br><br>I enjoy learning new technologies, solving programming problems, and building practical projects.<br><br> 🎯 My Goal<br><br>To start my career as a **DevOps Engineer** and continuously improve my skills in cloud infrastructure, automation, and deployment.<br><br>📌 **Currently:** Learning • Building Projects • Exploring DevOps<br></div>
 
 ## 🌐 Socials:
@@ -10,7 +9,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=Piyarul7290&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Piyarul7290&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Piyarul7290&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ---
 [![](https://komarev.com/ghpvc/?username=Piyarul7290&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
